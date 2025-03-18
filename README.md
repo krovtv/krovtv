@@ -1,6 +1,6 @@
 ### Opa, Kauã aqui💪🏾
 - Atualmente trabalho com infraestrutura em T.I 
-- Estudando Data Sciense e Linguaguem <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+- Estudando para me tornar um desenvolvedor de sistemas <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
 <div style="display: inline_block"><br>
